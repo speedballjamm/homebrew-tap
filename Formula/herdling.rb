@@ -3,8 +3,8 @@
 class Herdling < Formula
   desc "Learn Herdr by playing it: a game that coaches you inside a real Herdr"
   homepage "https://github.com/speedballjamm/herdling"
-  url "https://github.com/speedballjamm/herdling/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "347ba8ef324943540acba99d16fb529483a3d02430e12c22709e7c33b6b294ad"
+  url "https://github.com/speedballjamm/herdling/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "ee5b81ec349b1c9ccd9aeaa521f239252c14ad2ff4028cc0b298c5a7a70916e0"
   license "MIT"
 
   depends_on "python@3.14"
